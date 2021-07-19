@@ -9,7 +9,6 @@
 
 body {
   height: 100%;
-  padding-top:70px;
 }
 
 navbar {
@@ -51,6 +50,7 @@ navbar {
 .carosel_img {
   width: 99.5%;
   height: 98.8%;
+    margin-top:70px;
 }
 
 .services {
